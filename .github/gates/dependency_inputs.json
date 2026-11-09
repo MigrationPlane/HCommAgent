@@ -1,4 +1,4 @@
 {
-  "api/requirements.txt": "650a9f80797530d91be0e516a4f929e8ae5bba2e6d6d29ffa11dc479fe89c02c",
-  "api/requirements-dev.in": "f136dd37d7bb5d331b192454ed07259fb5f7c6dcafe71b0674aa5ebd40f2b170"
+  "api/requirements.txt": "8167e43777ce5b58627401b893f78a7590c07b9848692969ab27d926eb7671fa",
+  "api/requirements-dev.in": "536fb71a8554ab26e609a0f3bf6965540d86ace195123f592c09d64cddba8558"
 }
